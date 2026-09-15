@@ -1,5 +1,9 @@
 # S-TRACE
 
+Space–Terrestrial Risk, Access, Communications, and Exposure (S-TRACE) : A cyber situational awareness tool that unifies
+orbital visibility tracking, end-to-end space-terrestrial path modeling, and asset-level cyber threat intelligence to reduce
+unexpected contact loss and accelerate response actions.​
+
 ## Repository structure
 
 ```text
